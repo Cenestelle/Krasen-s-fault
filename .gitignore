@@ -3,12 +3,19 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#MY Files
+*.json
+*.dll
+*.exe
+*.pdb
+
 # User-specific files
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+.vscode/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -347,13 +354,3 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
-
-#MY STUFF
-Database/Summary.txt
-Scripts/
-*.dll
-*.md
-*.txt
-*.bat
-*.exe
-*.json
