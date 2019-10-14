@@ -1,0 +1,7 @@
+*********** Budget **********
+sister 8000
+mortgage 8000
+tax 2000
+
+Your spendings are: 18000
+Your amount left on budget is: 0
